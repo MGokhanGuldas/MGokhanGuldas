@@ -26,13 +26,9 @@ I enjoy understanding how AI systems work, reproducing research papers, and turn
 ## Tech Stack
 
 **Languages:** Python, C#, JavaScript, SQL
-
 **AI / ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
-
 **Computer Vision:** OpenCV, Object Detection, Image Segmentation
-
 **Backend:** FastAPI, Flask, REST APIs, Microservices
-
 **Other:** Git, Linux, STM32, TinyML, NumPy, pandas
 
 ## Selected Work
@@ -62,4 +58,3 @@ I'm currently building and organizing projects around:
 ## Contact
 
 - Website: [mgokhanguldas.github.io](https://mgokhanguldas.github.io)
-- Email: gokhanguldas45@gmail.com
